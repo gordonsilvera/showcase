@@ -1,6 +1,6 @@
 **Showcase**
 =============
-Samples of avocational projects and scripts. Currently, most of these scripts are for API data extraction. I'll add more analyses in the future. 
+Samples of avocational projects and scripts. Currently, most of the Python scripts are for API data extraction. I'll add more analyses in the future. 
 
 Contents
 ----------------
